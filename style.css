@@ -1,0 +1,39 @@
+/* style.css - a simple style sheet */
+body {
+  margin-left: 3%; margin-right: 3%;
+  color: white; background: #300A24;
+}
+#color1 {
+	color: #178E91;
+}
+#color2 {
+	color: #0BBA30;
+}
+#color3 {
+	color: #9E2979;
+}
+#color4 {
+	color: #DD8418;
+}
+#color5 {
+	color: #DDC018;
+}
+#error_color{
+	color: #D4280B;
+}
+#cmd {
+    border: none;
+    color: white;
+    background-color: #300A24;
+    width:100%;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+}
+#cmd_log {
+    border: none;
+    color: white;
+    background-color: #300A24;
+    width:100%;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+}
